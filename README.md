@@ -37,6 +37,8 @@ To fetch and parse golf booking confirmation emails, execute:
 ```bash
 python main.py
 ```
+
+Make adjust the 'before_date' and 'maxResults' variables to customize the search.
 The extracted data will be appended to `emails.csv` in the project directory.
 
 ## 📂 File Structure
