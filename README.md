@@ -39,6 +39,7 @@ python GolfTracker.py
 ```
 
 Adjust the 'before_date' and 'maxResults' variables to customize the search.
+Set to current date and ~200 results to finish all processing in one run.
 The extracted data will be appended to `emails.csv` in the project directory.
 
 ## 📂 File Structure
