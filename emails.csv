@@ -1,0 +1,55 @@
+course_name,date,course_fees,convenience_fees,is_golf_confirmation,is_cancellation,due_at_course,paid_online,number_of_players
+White Pines Golf Club - East Course,02/02/25,93.0,7.47,True,False,93.0,7.47,3
+Wigwam Golf Resort - Blue Course,01/24/25,267.0,7.47,True,False,291.3,8.15,3
+Coldwater Golf Club,01/24/25,170.0,4.98,True,False,184.96,5.42,2
+Salt Creek Golf Club,12/27/24,48.0,0.0,True,False,48.0,0.0,2
+Sydney R. Marovitz Golf Course,12/15/24,0.0,0.0,True,False,0.0,0.0,2
+Sydney R. Marovitz Golf Course,12/15/24,62.38,0.0,True,False,62.38,0.0,2
+Jackson Park Golf Course,12/08/24,35.98,6.98,True,False,0.0,47.0,2
+Sydney R. Marovitz Golf Course,12/08/24,0.0,0.0,True,False,0.0,0.0,2
+Sydney R. Marovitz Golf Course,12/08/24,62.38,0.0,True,False,62.38,0.0,2
+Irving Golf Club,11/27/24,60.0,4.98,True,False,64.95,6.0,2
+Sydney R. Marovitz Golf Course,11/20/24,14.99,3.49,True,False,0.0,21.0,1
+South Shore Golf Course - CPD,11/19/24,13.76,0.0,True,False,13.76,0.0,1
+Sydney R. Marovitz Golf Course,11/08/24,56.88,0.0,True,False,56.88,0.0,2
+Edgebrook Golf Course,11/09/24,123.0,7.47,True,False,0.0,143.0,3
+South Shore Golf Course - CPD,11/03/24,15.6,0.0,True,False,15.6,0.0,1
+South Shore Golf Course - CPD,10/30/24,13.76,0.0,True,False,0.0,13.76,1
+Palos Hills Golf Course,10/27/24,48.0,4.98,True,False,0.0,53.0,2
+South Shore Golf Course - CPD,10/25/24,36.7,0.0,True,False,36.7,0.0,2
+South Shore Golf Course - CPD,10/23/24,9.99,3.49,True,False,0.0,14.69,1
+South Shore Golf Course - CPD,10/21/24,36.7,0.0,True,False,36.7,0.0,2
+Meadowlark Golf Course,10/19/24,41.97,10.47,True,False,0.0,53.0,3
+South Shore Golf Course - CPD,10/18/24,13.76,0.0,True,False,13.76,0.0,1
+Columbus Park Golf Course,10/15/24,36.7,0.0,True,False,36.7,0.0,2
+Robert A. Black Golf Course,10/13/24,49.54,0.0,True,False,49.54,0.0,2
+South Shore Golf Course - CPD,10/11/24,36.7,0.0,True,False,36.7,0.0,2
+South Shore Golf Course - CPD,10/11/24,13.76,0.0,True,False,13.76,0.0,1
+South Shore Golf Course - CPD,10/10/24,36.7,0.0,True,False,36.7,0.0,2
+Burnham Woods Golf Course,10/12/24,92.0,4.98,True,False,0.0,97.0,2
+South Shore Golf Course - CPD,10/11/24,36.7,0,True,False,36.7,0,2
+South Shore Golf Course - CPD,10/11/24,13.76,0,True,False,13.76,0,1
+South Shore Golf Course - CPD,10/10/24,36.7,0,True,False,36.7,0,2
+Burnham Woods Golf Course,10/12/24,92,4.98,True,False,0,97,2
+Green Meadows Golf Course,10/06/24,132,9.96,True,False,132,10,4
+South Shore Golf Course - CPD,10/01/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/30/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/29/24,40.36,4.98,True,False,40.36,6.0,2
+Columbus Park Golf Course,09/26/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/27/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/25/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/23/24,36.7,4.98,True,False,36.7,6.0,2
+Columbus Park Golf Course,09/20/24,36.7,4.98,True,False,36.7,6.0,2
+Meadowlark Golf Course,09/17/24,66.0,4.98,True,False,0.0,71.0,2
+"Twin Lakes Golf Course (Westmont, IL)",09/15/24,34.0,4.98,True,False,34.0,5.0,2
+Columbus Park Golf Course,09/11/24,36.7,4.98,True,False,36.7,6.0,2
+Eaglewood Resort & Spa,09/06/24,153.0,7.47,True,False,0.0,161.0,3
+Marquette Park Golf Course,08/28/24,36.7,4.98,True,False,36.7,6.0,2
+River Pointe Country Club,08/24/24,171.0,7.47,True,False,171.0,8.0,3
+South Shore Golf Course - CPD,08/19/24,36.7,4.98,True,False,36.7,6.0,2
+Anetsberger Golf Course,08/17/24,64.0,9.96,True,False,64.0,10.0,4
+Columbus Park Golf Course,08/16/24,36.7,4.98,True,False,36.7,6.0,2
+Silver Lake Rolling Hills,08/11/24,96.0,7.47,True,False,0.0,104.0,3
+N/A,07/29/24,27.0,0.0,True,False,0.0,27.0,1
+South Shore Golf Course - CPD,07/23/24,36.7,4.98,True,False,36.7,6.0,2
+Sydney R. Marovitz Golf Course,09/25/20,26.61,0.0,True,False,26.61,0.0,1
