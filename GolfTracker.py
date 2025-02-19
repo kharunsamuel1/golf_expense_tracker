@@ -176,6 +176,8 @@ def get_golf_emails(service):
                 "paid_online": parsed_details.get("paid_online", ""),
                 "number_of_players": int(parsed_details.get("number_of_players", 0))
             })
+            print("Email parsed successfully: " + str(parsed_details))
+
         except Exception as e:
             print("skipping email with exception" + str(parsed_details) + " " + subject)
 
