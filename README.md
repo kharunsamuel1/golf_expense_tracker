@@ -35,7 +35,7 @@ pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 goog
 ### 4️⃣ **Run the Script**
 To fetch and parse golf booking confirmation emails, execute:
 ```bash
-python main.py
+python GolfTracker.py
 ```
 
 Adjust the 'before_date' and 'maxResults' variables to customize the search.
